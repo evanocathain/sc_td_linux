@@ -1,5 +1,6 @@
 sc_td_linux.tar
 sc_td_linux/*.tar
 sc_td_linux/*/*.tar
+sc_td_linux/linux/*
 sc_td_linux/bin/linux/*
 *~
